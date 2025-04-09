@@ -16,7 +16,7 @@
 pip3 install -r requirements.txt
 ```
 
-論文の登録を動かす場合、以下のコードでモデルのインストールが必要かもです。(ちぐちぐに聞いてみてください)
+論文の登録を動かす場合、以下のコードでモデルのインストールが必要かもです。
 ```
 python -m spacy download en_core_web_sm
 ```
